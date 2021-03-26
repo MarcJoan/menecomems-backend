@@ -6,3 +6,5 @@ venv/
 /*/menecomems/*/__pycache__/
 
 *.pyc
+
+menecomems/db.sqlite3
