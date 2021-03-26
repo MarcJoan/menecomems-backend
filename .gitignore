@@ -3,5 +3,4 @@ venv/
 %SystemDrive%/
 /*/menecomems/*/migrations/*.py
 !/*/menecomems/*/migrations/__init__.py
-
-*.cpython-*.pyc
+menecomems/*/__pycache__/
