@@ -1,6 +1,6 @@
 venv/
-/.idea
-/%SystemDrive%/
+.idea
+%SystemDrive%/
 /*/menecomems/*/migrations/*.py
 !/*/menecomems/*/migrations/__init__.py
 
